@@ -1,4 +1,5 @@
 import React from 'react';
+import cartImg from '../../assets/shopping-cart.png';
 
 const Navbar = () => {
     return (
@@ -15,9 +16,11 @@ const Navbar = () => {
 
             <div className="flex items-center space-x-6">
                 <button className="text-gray-700 hover:text-purple-600">
-                    {/* <ShoppingCart size={20} /> */}
                 </button>
-                <button className="font-semibold text-gray-700">Login</button>
+                <button className="flex items-center gap-2 font-semibold text-gray-700">
+                    <img src={cartImg} alt="Cart logo" />
+                    <span>Login</span>
+                </button>
                 <button className="bg-purple-600 text-white px-6 py-2.5 rounded-full font-semibold hover:bg-purple-700 transition">
                     Get Started
                 </button>
