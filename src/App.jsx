@@ -4,6 +4,7 @@ import Banner from './component/Banner/Banner'
 import Stats from './component/Stats/Stats'
 import Steps from './component/steps/Steps'
 import Footer from './component/footer/Footer'
+import ReadySection from './component/readySection/ReadySection'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <Banner />
       <Stats />
       <Steps />
+      <ReadySection />
       <Footer />
     </div>
   )

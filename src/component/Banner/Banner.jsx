@@ -27,10 +27,10 @@ const Hero = () => {
                 </button>
 
                 <div className="flex flex-wrap gap-4">
-                    <button className="bg-purple-600 text-white px-6 py-3 rounded-full font-semibold text-lg hover:bg-purple-700 shadow-lg shadow-purple-200 transition">
+                    <button className="bg-purple-600 text-white px-6 py-3 rounded-full font-semibold text-md hover:bg-purple-700 shadow-lg shadow-purple-200 transition">
                         Explore Products
                     </button>
-                    <button className="flex items-center space-x-2 border-2 border-purple-600 text-purple-600 px-6 py-3 rounded-full font-semibold text-lg hover:bg-purple-50 transition">
+                    <button className="flex items-center space-x-2 border-2 border-purple-600 text-purple-600 px-6 py-3 rounded-full font-semibold text-md hover:bg-purple-50 transition">
                         <img
                             src={playImg}
                             alt="play button UI"
