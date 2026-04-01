@@ -69,7 +69,7 @@ Users can browse premium digital tools, add them to a cart, and simulate a check
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/digitools.git
+git clone https://github.com/kawsarNK/Assignment6DigiToolsPlatform.git
 
 # Navigate to project folder
 cd digitools
