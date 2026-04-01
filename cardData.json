@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "billing": "/Mo",
+    "badge": "Best Seller",
+    "badgeColor": "bg-orange-100 text-orange-600",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "icon": "https://i.ibb.co.com/pvXVJS59/writing-2327400-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Design Templates Pack",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 49,
+    "billing": "/One-Time",
+    "badge": "Popular",
+    "badgeColor": "bg-blue-100 text-blue-600",
+    "features": [
+      "2000+ templates",
+      "Monthly updates",
+      "Commercial license"
+    ],
+    "icon": "https://i.ibb.co.com/FqjP26sM/design-tool.png"
+  },
+  {
+    "id": 3,
+    "title": "Premium Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "billing": "/Mo",
+    "badge": "New",
+    "badgeColor": "bg-green-100 text-green-600",
+    "features": [
+      "10M+ assets",
+      "Commercial use",
+      "No attribution"
+    ],
+    "icon": "https://i.ibb.co.com/RGrMKVYN/camera-8775444-1-1.png"
+  },
+  {
+    "id": 4,
+    "title": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "price": 79,
+    "billing": "/Mo",
+    "badge": "Popular",
+    "badgeColor": "bg-blue-100 text-blue-600",
+    "features": [
+      "50+ automations",
+      "API access",
+      "Custom workflows"
+    ],
+    "icon": "https://i.ibb.co.com/0yWxFD7G/operation.png"
+  },
+  {
+    "id": 5,
+    "title": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters that land interviews.",
+    "price": 15,
+    "billing": "/One-Time",
+    "badge": "New",
+    "badgeColor": "bg-green-100 text-green-600",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "https://i.ibb.co.com/JFG9rLvh/portfolio.png"
+  },
+  {
+    "id": 6,
+    "title": "Social Media Content Kit",
+    "description": "Complete toolkit for creating engaging social media content across all platforms.",
+    "price": 39,
+    "billing": "/Mo",
+    "badge": "Best Seller",
+    "badgeColor": "bg-orange-100 text-orange-600",
+    "features": [
+      "5000+ assets",
+      "Scheduler included",
+      "Analytics dashboard"
+    ],
+    "icon": "https://i.ibb.co.com/sppSk0QP/social-media.png"
+  }
+]

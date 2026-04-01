@@ -26,22 +26,22 @@ const Steps = () => {
     ];
 
     return (
-        <section className="bg-[#f8fafc] py-24 px-8">
-            <div className="max-w-7xl mx-auto text-center">
+        <section className="bg-[#f8fafc] py-20 px-6 ">
+            <div className="max-w-5xl mx-auto text-center w-10/12">
                 {/* Header Section */}
                 <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">
                     Get Started In 3 Steps
                 </h2>
-                <p className="text-gray-500 text-lg mb-16">
+                <p className="text-gray-500 text-md mb-12">
                     Start using premium digital tools in minutes, not hours.
                 </p>
 
                 {/* Cards Grid */}
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     {steps.map((step) => (
                         <div
                             key={step.id}
-                            className="bg-white p-10 rounded-3xl border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 relative flex flex-col items-center"
+                            className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 relative flex flex-col items-center"
                         >
                             {/* Number Badge */}
                             <div className="absolute top-6 right-6 bg-[#7c3aed] text-white text-xs font-bold w-8 h-8 flex items-center justify-center rounded-full">
@@ -53,12 +53,12 @@ const Steps = () => {
                                 <img
                                     src={step.img}
                                     alt={step.title}
-                                    className="w-14 h-14 object-contain"
+                                    className="w-12 h-12 object-contain"
                                 />
                             </div>
 
                             {/* Text Content */}
-                            <h3 className="text-2xl font-bold text-slate-900 mb-4">
+                            <h3 className="text-xl font-bold text-slate-900 mb-3">
                                 {step.title}
                             </h3>
                             <p className="text-gray-500 leading-relaxed max-w-[250px]">
