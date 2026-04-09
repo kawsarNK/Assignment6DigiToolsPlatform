@@ -24,6 +24,16 @@ If you are developing a production application, we recommend using TypeScript wi
 Users can browse premium digital tools, add them to a cart, and simulate a checkout experience with real-time updates and notifications.
 
 ---
+##  Project view
+
+- **Project live link :** https://digitools-assignment6.netlify.app/
+
+  <img width="1431" height="863" alt="image" src="https://github.com/user-attachments/assets/3f354291-97e1-4cdb-8c93-cdeb5c438904" />
+  <img width="1481" height="851" alt="image" src="https://github.com/user-attachments/assets/23684e20-38a5-4586-be56-11ba6783cbe3" />
+  <img width="1289" height="877" alt="image" src="https://github.com/user-attachments/assets/3e23d03f-ecc7-4570-ba23-1c4f195e901a" />
+
+
+
 
 ## 🚀 Technologies Used
 
@@ -64,6 +74,7 @@ Users can browse premium digital tools, add them to a cart, and simulate a check
 * Smooth hover effects and transitions
 
 ---
+
 
 ## 📦 Installation & Setup
 
